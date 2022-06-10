@@ -1,0 +1,16 @@
+{
+  "name": "z-debounce",
+  "version": "5.0.0",
+  "description": "防止按钮在短时间内被多次点击，使用防抖函数限制规定时间内只能点击一次  ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zhouyaxiu",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhouyaxiu/z-debounce.git"
+  }
+}
